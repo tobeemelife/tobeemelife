@@ -1,4 +1,4 @@
-### Hi, I'm Toby. Welcome to my repo 👋
+### Hi, I'm Tobe. Welcome to my repo 👋
 
 <!--
 **tobyemelife/tobyemelife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
